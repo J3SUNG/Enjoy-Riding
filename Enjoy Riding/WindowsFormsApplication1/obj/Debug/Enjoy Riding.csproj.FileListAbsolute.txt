@@ -1,0 +1,39 @@
+C:\Users\J3SUNG\Downloads\temp\Enjoy Riding\WindowsFormsApplication1\obj\Debug\Enjoy Riding.csproj.GenerateResource.Cache
+C:\Users\J3SUNG\Downloads\temp\Enjoy Riding\WindowsFormsApplication1\bin\Debug\Enjoy_Riding.exe.config
+C:\Users\J3SUNG\Downloads\temp\Enjoy Riding\WindowsFormsApplication1\bin\Debug\Enjoy_Riding.exe
+C:\Users\J3SUNG\Downloads\temp\Enjoy Riding\WindowsFormsApplication1\bin\Debug\Enjoy_Riding.pdb
+C:\Users\J3SUNG\Downloads\temp\Enjoy Riding\WindowsFormsApplication1\obj\Debug\Enjoy_Riding.Form1.resources
+C:\Users\J3SUNG\Downloads\temp\Enjoy Riding\WindowsFormsApplication1\obj\Debug\Enjoy_Riding.Properties.Resources.resources
+C:\Users\J3SUNG\Downloads\temp\Enjoy Riding\WindowsFormsApplication1\obj\Debug\Enjoy_Riding.exe
+C:\Users\J3SUNG\Downloads\temp\Enjoy Riding\WindowsFormsApplication1\obj\Debug\Enjoy_Riding.pdb
+C:\Users\J3SUNG\Downloads\temp\Enjoy Riding\WindowsFormsApplication1\obj\Debug\Enjoy Riding.csprojResolveAssemblyReference.cache
+C:\Users\J3SUNG\Downloads\temp\가마우지\WindowsFormsApplication1\bin\Debug\Enjoy_Riding.exe.config
+C:\Users\J3SUNG\Downloads\temp\가마우지\WindowsFormsApplication1\obj\Debug\Enjoy_Riding.exe
+C:\Users\J3SUNG\Downloads\temp\가마우지\WindowsFormsApplication1\obj\Debug\Enjoy_Riding.pdb
+C:\Users\J3SUNG\Downloads\temp\가마우지\WindowsFormsApplication1\bin\Debug\Enjoy_Riding.exe
+C:\Users\J3SUNG\Downloads\temp\가마우지\WindowsFormsApplication1\bin\Debug\Enjoy_Riding.pdb
+C:\Users\J3SUNG\Downloads\temp\가마우지\WindowsFormsApplication1\obj\Debug\Enjoy Riding.csprojResolveAssemblyReference.cache
+C:\Users\J3SUNG\Downloads\temp\가마우지\WindowsFormsApplication1\obj\Debug\Enjoy_Riding.Form1.resources
+C:\Users\J3SUNG\Downloads\temp\가마우지\WindowsFormsApplication1\obj\Debug\Enjoy_Riding.Properties.Resources.resources
+C:\Users\J3SUNG\Downloads\temp\가마우지\WindowsFormsApplication1\obj\Debug\Enjoy Riding.csproj.GenerateResource.Cache
+C:\Users\J3SUNG\Downloads\Enjoy Riding\Enjoy Riding\WindowsFormsApplication1\bin\Debug\Enjoy_Riding.exe.config
+C:\Users\J3SUNG\Downloads\Enjoy Riding\Enjoy Riding\WindowsFormsApplication1\obj\Debug\Enjoy_Riding.exe
+C:\Users\J3SUNG\Downloads\Enjoy Riding\Enjoy Riding\WindowsFormsApplication1\obj\Debug\Enjoy_Riding.pdb
+C:\Users\J3SUNG\Downloads\Enjoy Riding\Enjoy Riding\WindowsFormsApplication1\bin\Debug\Enjoy_Riding.exe
+C:\Users\J3SUNG\Downloads\Enjoy Riding\Enjoy Riding\WindowsFormsApplication1\bin\Debug\Enjoy_Riding.pdb
+C:\Users\J3SUNG\Downloads\Enjoy Riding\Enjoy Riding\WindowsFormsApplication1\obj\Debug\Enjoy Riding.csprojResolveAssemblyReference.cache
+C:\Users\J3SUNG\Downloads\Enjoy Riding\Enjoy Riding\WindowsFormsApplication1\obj\Debug\Enjoy_Riding.Form1.resources
+C:\Users\J3SUNG\Downloads\Enjoy Riding\Enjoy Riding\WindowsFormsApplication1\obj\Debug\Enjoy_Riding.Properties.Resources.resources
+C:\Users\J3SUNG\Downloads\Enjoy Riding\Enjoy Riding\WindowsFormsApplication1\obj\Debug\Enjoy Riding.csproj.GenerateResource.Cache
+C:\Users\J3SUNG\Desktop\Enjoy Riding\Enjoy Riding\WindowsFormsApplication1\bin\Debug\Enjoy_Riding.exe.config
+C:\Users\J3SUNG\Desktop\Enjoy Riding\Enjoy Riding\WindowsFormsApplication1\obj\Debug\Enjoy_Riding.exe
+C:\Users\J3SUNG\Desktop\Enjoy Riding\Enjoy Riding\WindowsFormsApplication1\obj\Debug\Enjoy_Riding.pdb
+C:\Users\J3SUNG\Desktop\Enjoy Riding\Enjoy Riding\WindowsFormsApplication1\bin\Debug\Enjoy_Riding.exe
+C:\Users\J3SUNG\Desktop\Enjoy Riding\Enjoy Riding\WindowsFormsApplication1\bin\Debug\Enjoy_Riding.pdb
+C:\Users\J3SUNG\Desktop\Enjoy Riding\Enjoy Riding\WindowsFormsApplication1\obj\Debug\Enjoy Riding.csprojResolveAssemblyReference.cache
+C:\Users\J3SUNG\Desktop\Enjoy Riding\Enjoy Riding\WindowsFormsApplication1\obj\Debug\Enjoy_Riding.Form1.resources
+C:\Users\J3SUNG\Desktop\Enjoy Riding\Enjoy Riding\WindowsFormsApplication1\obj\Debug\Enjoy_Riding.Properties.Resources.resources
+C:\Users\J3SUNG\Desktop\Enjoy Riding\Enjoy Riding\WindowsFormsApplication1\obj\Debug\Enjoy Riding.csproj.GenerateResource.Cache
+C:\Users\J3SUNG\Downloads\프로젝트\Enjoy Riding\Enjoy Riding\WindowsFormsApplication1\bin\Debug\Enjoy_Riding.exe.config
+C:\Users\J3SUNG\Downloads\프로젝트\Enjoy Riding\Enjoy Riding\WindowsFormsApplication1\obj\Debug\Enjoy_Riding.exe
+C:\Users\J3SUNG\Downloads\프로젝트\Enjoy Riding\Enjoy Riding\WindowsFormsApplication1\obj\Debug\Enjoy_Riding.pdb
