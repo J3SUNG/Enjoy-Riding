@@ -163,7 +163,7 @@ Tool : Visual Studio
 - 로그인
 
 ![홈 화면4](https://github.com/J3SUNG/Enjoy-Riding/assets/16315673/bd64dcb3-d0fe-4423-905e-35f0e1083461)
-<br/>><br/>
+<br/><br/>
 
 - 로그인 실패
 
