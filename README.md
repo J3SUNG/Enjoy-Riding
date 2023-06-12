@@ -10,7 +10,6 @@
 사용자 : 차량 렌트 및 반납, 내 정보, 리뷰 작성 및 수정
 매니저 : 차량 렌트 및 반납, 렌트 관리, 리뷰 작성 수정 관리, 유저 관리
 관리자 : 차량 렌트 및 반납, 렌트 관리, 리뷰 관리 수정 관리, 유저 관리, 차량 관리, 렌트 기록, 통계
-
 <br/><br/>
 
 ### 개발기간
@@ -32,12 +31,15 @@ Tool : Visual Studio
   - 회원가입
   - 메인 화면
   - 렌트
+  - 렌트 정보
   - 렌트 기록
   - 리뷰
+  - 내정보
   - 유저 관리
   - 차량 관리
   - 통계
-  - 내정보
+
+<br/><br/>
 
 ## 주요기능 목차
 
@@ -62,6 +64,10 @@ Tool : Visual Studio
   - 렌트 차량 이미지
   - 렌트 신청
   - 렌트 예약
+- 렌트 정보 (매니저, 관리자)
+  - 렌트 처리
+  - 반납 처리
+  - 예약 처리
 - 렌트 기록 (관리자)
   - 렌트 기록
   - 렌트 기록 필터1
@@ -69,6 +75,13 @@ Tool : Visual Studio
 - 리뷰
   - 리뷰1
   - 리뷰2
+- 내 정보
+  - 내 정보
+  - 신청 정보
+  - 렌트 정보
+  - 예약 정보
+  - 예약 취소
+  - 리뷰 작성
 - 유저 관리 (매니저, 관리자)
   - 유저 관리
   - 연체료 납부
@@ -89,23 +102,59 @@ Tool : Visual Studio
   - 매출량 (원형 차트)
   - 렌트량
   - 고객순위
-- 내 정보
-  - 내 정보
-  - 신청 정보
-  - 렌트 정보
-  - 예약 정보
-  - 예약 취소
-  - 리뷰 작성
-  - 렌트 처리 (매니저, 관리자)
-  - 반납 처리 (매니저, 관리자)
 
-<br/><br/> -->
+<br/><br/>
 
 ## 주요기능 (간략)
 
+### 로그인
+
+![홈 화면4](https://github.com/J3SUNG/Enjoy-Riding/assets/16315673/bd64dcb3-d0fe-4423-905e-35f0e1083461)
+<br/><br/>
+
+### 회원가입
+
+![회원가입1](https://github.com/J3SUNG/Enjoy-Riding/assets/16315673/7bc8603b-a167-4292-8758-f0e5e801227b)
+<br/><br/>
+
 ### 메인 화면
 
-<!-- - 메인 화면
+![로그인(관리자)](https://github.com/J3SUNG/Enjoy-Riding/assets/16315673/e0935dd4-0ce3-47fd-92e7-eb2704c0892e)
+<br/><br/>
 
-![home](https://github.com/J3SUNG/Surviving-University-Life-Game/assets/16315673/42cb6ae7-7806-4e2c-897f-7d53c58d6dd9)
-<br/><br/> -->
+### 렌트
+
+![렌트1](https://github.com/J3SUNG/Enjoy-Riding/assets/16315673/33b4d95c-3666-4cdd-97c2-ba611594443c)
+<br/><br/>
+
+### 렌트 기록
+
+![렌트기록1](https://github.com/J3SUNG/Enjoy-Riding/assets/16315673/8f80f1e6-417c-4d7e-bb21-cda6ed29f28c)
+<br/><br/>
+
+### 리뷰
+
+![리뷰1](https://github.com/J3SUNG/Enjoy-Riding/assets/16315673/868c216e-f85d-4bf8-b1f3-2a5ab12690af)
+<br/><br/>
+
+### 내정보
+
+![내정보2](https://github.com/J3SUNG/Enjoy-Riding/assets/16315673/c39e1bb8-cd3e-4e96-be05-64a82f0ef01b)
+<br/><br/>
+
+### 유저 관리
+
+![유저관리1](https://github.com/J3SUNG/Enjoy-Riding/assets/16315673/6d15de2a-f130-4984-80b9-6448afcf6370)
+<br/><br/>
+
+### 차량 관리
+
+![차량관리1](https://github.com/J3SUNG/Enjoy-Riding/assets/16315673/13b000fd-076f-40a1-8723-33f852efe597)
+<br/><br/>
+
+### 통계
+
+![통계2](https://github.com/J3SUNG/Enjoy-Riding/assets/16315673/e03f6287-63ee-4704-a6e0-669162de2949)
+<br/><br/>
+
+## 주요기능
