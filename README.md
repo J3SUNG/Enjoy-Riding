@@ -19,8 +19,8 @@
 
 ### 기술 스택
 
-Language : C#
-Database : MySQL
+Language : C#<br/>
+Database : MySQL<br/>
 Tool : Visual Studio
 <br/><br/>
 
